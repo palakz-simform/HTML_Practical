@@ -33,7 +33,7 @@ header{
     border-radius: 0px;
     height:35px;
 }
-.fa-magnifying-glass{
+.searchicon{
     background-color: white;
     padding:9px;
     color:#0275d8;
@@ -364,7 +364,7 @@ footer{
         width:auto;
         margin:20px 40px 0px ;
     }
-    .fa-magnifying-glass{
+    .searchicon{
        display:none;
     }
     .navbar-brand img{
@@ -429,9 +429,7 @@ footer{
     
     }
  
-       .fa-magnifying-glass{
-       display:none;
-    }
+   
     .dropdown-menu {
             
             margin-left: 10px;

@@ -55,6 +55,7 @@ header{
     height:33px;
     width:130px;
     margin-top:3px;
+    margin-left:180px;
     border-radius:2px;
     text-align:center;
     font-weight: bolder;
@@ -349,8 +350,9 @@ footer{
 @media screen and (max-width: 1250px) {
    .headercenter{
         width:auto;
-        margin : 0px auto;
+        
     }
+ 
     .navbar-brand img{
         margin:5px 40px;
       

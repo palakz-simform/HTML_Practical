@@ -161,7 +161,7 @@ section{
     width:100%;
     padding: 5px 20px;
     margin-top:20px;
-    box-shadow:0px 1px 1px 0 rgb(0 0 0 /0.16);
+    box-shadow:0px 1px 1px 0 rgb(219, 219, 219);
     background-color:white;
 }
 .common-heading-left h1{
@@ -320,7 +320,7 @@ footer{
 
 
 }
-
+/*
 
 .footer-row-2-col p{
     
@@ -336,7 +336,7 @@ footer{
 }
 .footer-row-2-col img{
     padding:20px;
-}
+}*/
 .fa-bag-shopping,.fa-star, .fa-gift,.fa-circle-question{
     color:#ffd700;
     cursor: pointer;
@@ -445,9 +445,10 @@ footer{
     .card{
         align-items: center;
     }
+    /*
     .footer-row-2-col img{
         width:300px;
-    }
+    }*/
     .category-row{
   
         width: 100%;

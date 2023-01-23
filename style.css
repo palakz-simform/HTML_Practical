@@ -142,17 +142,17 @@ section{
     
     
 }
-.container{
+/*.container{
     
     width:100%;
     margin-left:0px;
     margin-right:0px;
     
-}
+}*/
 .card{
     
     border:none;
-    
+    align-items: center;
    
 }
 .common-heading{

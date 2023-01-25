@@ -141,13 +141,7 @@ section{
     
     
 }
-/*.container{
-    
-    width:100%;
-    margin-left:0px;
-    margin-right:0px;
-    
-}*/
+
 .card{
     
     border:none;
@@ -320,23 +314,7 @@ footer{
 
 
 }
-/*
 
-.footer-row-2-col p{
-    
-    color:white;
-    font-size:15px;
-    font-weight:100px;
-    line-height:20px;
-    cursor:pointer;
-    line-height: 50px;
-    margin:0px 40px;
-    
-    
-}
-.footer-row-2-col img{
-    padding:20px;
-}*/
 .fa-bag-shopping,.fa-star, .fa-gift,.fa-circle-question{
     color:#ffd700;
     cursor: pointer;
